@@ -1,4 +1,4 @@
-# Lab Assignment 1: Design of an end to end messaging system like WhatsApp
+# Design of an end to end messaging system like WhatsApp
 
 ## Commands
 * `signup username password`
